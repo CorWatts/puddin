@@ -4,7 +4,7 @@
 # https://www.reddit.com/r/ShittyPoetry/comments/3t2qje/how_do_you_describe_pudding/
 # Written by frankieh: https://www.reddit.com/user/frankieh
 
-say <<PUDDIN
+say --rate 110 <<PUDDIN
 Slimy gooey
 it’s like soft jell-o
 like chocolate jell-o,

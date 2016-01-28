@@ -8,6 +8,11 @@ Most writing is made funnier when read aloud in a synthesized voice.
 
 ## Instructions
 Clone this repository, cd into the directory, and execute the pudding.sh script.
+```
+git clone https://github.com/CorWatts/puddin.git
+cd puddin
+bash pudding.sh
+```
 
 ### NOTE:
 This only works on OS X.
